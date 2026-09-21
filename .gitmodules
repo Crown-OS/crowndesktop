@@ -1,0 +1,12 @@
+[submodule "settings"]
+	path = settings
+	url = https://github.com/crown-os/crownos-settings
+[submodule "compositor"]
+	path = compositor
+	url = https://github.com/crown-os/crownpositor
+[submodule "bar"]
+	path = bar
+	url = https://github.com/crown-os/crownbar
+[submodule "launcher"]
+	path = launcher
+	url = https://github.com/crown-os/crownlauncher
