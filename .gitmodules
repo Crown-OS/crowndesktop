@@ -10,3 +10,6 @@
 [submodule "launcher"]
 	path = launcher
 	url = https://github.com/crown-os/crownlauncher
+[submodule "wallpaper"]
+	path = wallpaper
+	url = https://github.com/crown-os/crownpaper
